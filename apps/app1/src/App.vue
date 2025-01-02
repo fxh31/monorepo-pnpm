@@ -3,7 +3,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <div>Portal</div>
+  <div>App1</div>
 </template>
 
 <style scoped></style>
